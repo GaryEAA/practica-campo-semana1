@@ -3,6 +3,10 @@
 # Asignado a: Jadhe Sotelo
 # ==============================================================================
 
+def main():
+    print("--- EJERCICIO 1: OPERACIONES BÁSICAS ---")
+    # TODO: Desarrolla tu código aquí
+    
 # Programa que permite ingresar 8 números en una lista
 # y muestra el mayor, menor y la suma total
 
@@ -26,3 +30,6 @@ print("Número menor:", min(numeros))
 
 # Calcular suma total
 print("Suma total:", sum(numeros))
+
+if __name__ == "__main__":
+    main()

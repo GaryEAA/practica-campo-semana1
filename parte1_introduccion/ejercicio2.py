@@ -3,6 +3,10 @@
 # Asignado a: Jadhe Sotelo
 # ==============================================================================
 
+def main():
+    print("--- EJERCICIO 1: OPERACIONES BÁSICAS ---")
+    # TODO: Desarrolla tu código aquí
+
 # Programa para calcular el promedio de 4 notas de un estudiante
 
 # Entrada de datos
@@ -22,3 +26,6 @@ if promedio >= 11:
     print("Condición: Aprobado")
 else:
     print("Condición: Desaprobado")
+
+if __name__ == "__main__":
+    main()
